@@ -1,0 +1,685 @@
+Images: 1, 1 
+
+Time: 127.48 ms
+Match: 97.83%
+Status: Good
+
+
+Images: 1, 2 
+Time: 586.73 ms
+Match: 6.52%
+Status: Bad
+
+
+Images: 1, 3 
+Time: 80.06 ms
+Match: 24.58%
+Status: Bad
+
+
+Images: 1, 4 
+Time: 865.02 ms
+Match: 3.26%
+Status: Bad
+
+
+Images: 1, 5 
+Time: 697.37 ms
+Match: 6.16%
+Status: Bad
+
+
+Images: 1, 6 
+Time: 143.42 ms
+Match: 48.53%
+Status: Normal
+
+
+Images: 1, 7 
+Time: 151.83 ms
+Match: 20.0%
+Status: Bad
+
+
+Images: 1, 8 
+Time: 108.00 ms
+Match: 24.9%
+Status: Bad
+
+
+Images: 1, 9 
+Time: 234.73 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 1, 10 
+Time: 105.23 ms
+ATTENTION! One of the descriptors for images 1, 10 is None
+
+Images: 1, 11 
+Time: 241.46 ms
+Match: 7.25%
+Status: Bad
+
+
+Images: 2, 1 
+Time: 584.21 ms
+Match: 9.06%
+Status: Bad
+
+
+Images: 2, 2 
+Time: 1055.05 ms
+Match: 96.93%
+Status: Good
+
+
+Images: 2, 3 
+Time: 554.53 ms
+Match: 39.11%
+Status: Normal
+
+
+Images: 2, 4 
+Time: 1349.34 ms
+Match: 33.61%
+Status: Normal
+
+
+Images: 2, 5 
+Time: 1162.98 ms
+Match: 30.33%
+Status: Normal
+
+
+Images: 2, 6 
+Time: 608.12 ms
+Match: 54.41%
+Status: Normal
+
+
+Images: 2, 7 
+Time: 609.88 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 2, 8 
+Time: 569.24 ms
+Match: 14.01%
+Status: Bad
+
+
+Images: 2, 9 
+Time: 668.51 ms
+Match: 33.33%
+Status: Normal
+
+
+Images: 2, 10 
+Time: 542.02 ms
+ATTENTION! One of the descriptors for images 2, 10 is None
+
+Images: 2, 11 
+Time: 683.24 ms
+Match: 13.07%
+Status: Bad
+
+
+Images: 3, 1 
+Time: 79.62 ms
+Match: 10.06%
+Status: Bad
+
+
+Images: 3, 2 
+Time: 523.89 ms
+Match: 15.64%
+Status: Bad
+
+
+Images: 3, 3 
+Time: 36.10 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 3, 4 
+Time: 792.45 ms
+Match: 12.29%
+Status: Bad
+
+
+Images: 3, 5 
+Time: 615.58 ms
+Match: 17.88%
+Status: Bad
+
+
+Images: 3, 6 
+Time: 96.97 ms
+Match: 38.24%
+Status: Normal
+
+
+Images: 3, 7 
+Time: 110.37 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 3, 8 
+Time: 65.00 ms
+Match: 15.64%
+Status: Bad
+
+
+Images: 3, 9 
+Time: 190.36 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 3, 10 
+Time: 56.30 ms
+ATTENTION! One of the descriptors for images 3, 10 is None
+
+Images: 3, 11 
+Time: 207.66 ms
+Match: 4.47%
+Status: Bad
+
+
+Images: 4, 1 
+Time: 858.46 ms
+Match: 7.97%
+Status: Bad
+
+
+Images: 4, 2 
+Time: 1336.06 ms
+Match: 27.05%
+Status: Bad
+
+
+Images: 4, 3 
+Time: 820.61 ms
+Match: 45.81%
+Status: Normal
+
+
+Images: 4, 4 
+Time: 1607.03 ms
+Match: 97.95%
+Status: Good
+
+
+Images: 4, 5 
+Time: 1450.30 ms
+Match: 43.86%
+Status: Normal
+
+
+Images: 4, 6 
+Time: 891.34 ms
+Match: 89.71%
+Status: Good
+
+
+Images: 4, 7 
+Time: 861.32 ms
+Match: 20.0%
+Status: Bad
+
+
+Images: 4, 8 
+Time: 824.01 ms
+Match: 20.23%
+Status: Bad
+
+
+Images: 4, 9 
+Time: 944.10 ms
+Match: 41.67%
+Status: Normal
+
+
+Images: 4, 10 
+Time: 808.64 ms
+ATTENTION! One of the descriptors for images 4, 10 is None
+
+Images: 4, 11 
+Time: 957.76 ms
+Match: 10.13%
+Status: Bad
+
+
+Images: 5, 1 
+Time: 678.71 ms
+Match: 3.62%
+Status: Bad
+
+
+Images: 5, 2 
+Time: 1136.37 ms
+Match: 29.3%
+Status: Bad
+
+
+Images: 5, 3 
+Time: 629.62 ms
+Match: 49.16%
+Status: Normal
+
+
+Images: 5, 4 
+Time: 1394.92 ms
+Match: 39.24%
+Status: Normal
+
+
+Images: 5, 5 
+Time: 1237.15 ms
+Match: 99.2%
+Status: Good
+
+
+Images: 5, 6 
+Time: 698.36 ms
+Match: 73.53%
+Status: Normal
+
+
+Images: 5, 7 
+Time: 702.49 ms
+Match: 80.0%
+Status: Normal
+
+
+Images: 5, 8 
+Time: 656.00 ms
+Match: 13.23%
+Status: Bad
+
+
+Images: 5, 9 
+Time: 760.42 ms
+Match: 25.0%
+Status: Bad
+
+
+Images: 5, 10 
+Time: 641.22 ms
+ATTENTION! One of the descriptors for images 5, 10 is None
+
+Images: 5, 11 
+Time: 792.96 ms
+Match: 12.75%
+Status: Bad
+
+
+Images: 6, 1 
+Time: 139.19 ms
+Match: 2.94%
+Status: Bad
+
+
+Images: 6, 2 
+Time: 592.45 ms
+Match: 2.94%
+Status: Bad
+
+
+Images: 6, 3 
+Time: 96.53 ms
+Match: 4.41%
+Status: Bad
+
+
+Images: 6, 4 
+Time: 853.92 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 6, 5 
+Time: 695.63 ms
+Match: 22.06%
+Status: Bad
+
+
+Images: 6, 6 
+Time: 158.35 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 6, 7 
+Time: 167.91 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 6, 8 
+Time: 124.57 ms
+Match: 2.94%
+Status: Bad
+
+
+Images: 6, 9 
+Time: 249.00 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 6, 10 
+Time: 117.49 ms
+ATTENTION! One of the descriptors for images 6, 10 is None
+
+Images: 6, 11 
+Time: 264.27 ms
+Match: 45.59%
+Status: Normal
+
+
+Images: 7, 1 
+Time: 147.91 ms
+Match: 20.0%
+Status: Bad
+
+
+Images: 7, 2 
+Time: 605.39 ms
+Match: 20.0%
+Status: Bad
+
+
+Images: 7, 3 
+Time: 107.39 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 7, 4 
+Time: 861.84 ms
+Match: 60.0%
+Status: Normal
+
+
+Images: 7, 5 
+Time: 697.61 ms
+Match: 20.0%
+Status: Bad
+
+
+Images: 7, 6 
+Time: 175.06 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 7, 7 
+Time: 191.88 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 7, 8 
+Time: 142.13 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 7, 9 
+Time: 263.70 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 7, 10 
+Time: 129.85 ms
+ATTENTION! One of the descriptors for images 7, 10 is None
+
+Images: 7, 11 
+Time: 270.57 ms
+Match: 40.0%
+Status: Normal
+
+
+Images: 8, 1 
+Time: 109.42 ms
+Match: 22.57%
+Status: Bad
+
+
+Images: 8, 2 
+Time: 543.75 ms
+Match: 3.89%
+Status: Bad
+
+
+Images: 8, 3 
+Time: 64.21 ms
+Match: 27.37%
+Status: Bad
+
+
+Images: 8, 4 
+Time: 814.71 ms
+Match: 1.56%
+Status: Bad
+
+
+Images: 8, 5 
+Time: 656.21 ms
+Match: 2.72%
+Status: Bad
+
+
+Images: 8, 6 
+Time: 124.78 ms
+Match: 22.06%
+Status: Bad
+
+
+Images: 8, 7 
+Time: 137.81 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 8, 8 
+Time: 93.19 ms
+Match: 98.44%
+Status: Good
+
+
+Images: 8, 9 
+Time: 215.06 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 8, 10 
+Time: 83.13 ms
+ATTENTION! One of the descriptors for images 8, 10 is None
+
+Images: 8, 11 
+Time: 219.14 ms
+Match: 5.45%
+Status: Bad
+
+
+Images: 9, 1 
+Time: 248.02 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 9, 2 
+Time: 678.01 ms
+Match: 8.33%
+Status: Bad
+
+
+Images: 9, 3 
+Time: 212.51 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 9, 4 
+Time: 939.72 ms
+Match: 41.67%
+Status: Normal
+
+
+Images: 9, 5 
+Time: 772.33 ms
+Match: 16.67%
+Status: Bad
+
+
+Images: 9, 6 
+Time: 286.11 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 9, 7 
+Time: 283.95 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 9, 8 
+Time: 251.66 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 9, 9 
+Time: 350.67 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 9, 10 
+Time: 228.35 ms
+ATTENTION! One of the descriptors for images 9, 10 is None
+
+Images: 9, 11 
+Time: 331.90 ms
+Match: 58.33%
+Status: Normal
+
+
+Images: 10, 1 
+Time: 98.87 ms
+ATTENTION! One of the descriptors for images 10, 1 is None
+
+Images: 10, 2 
+Time: 537.44 ms
+ATTENTION! One of the descriptors for images 10, 2 is None
+
+Images: 10, 3 
+Time: 56.27 ms
+ATTENTION! One of the descriptors for images 10, 3 is None
+
+Images: 10, 4 
+Time: 788.15 ms
+ATTENTION! One of the descriptors for images 10, 4 is None
+
+Images: 10, 5 
+Time: 637.43 ms
+ATTENTION! One of the descriptors for images 10, 5 is None
+
+Images: 10, 6 
+Time: 118.33 ms
+ATTENTION! One of the descriptors for images 10, 6 is None
+
+Images: 10, 7 
+Time: 133.05 ms
+ATTENTION! One of the descriptors for images 10, 7 is None
+
+Images: 10, 8 
+Time: 82.89 ms
+ATTENTION! One of the descriptors for images 10, 8 is None
+
+Images: 10, 9 
+Time: 226.83 ms
+ATTENTION! One of the descriptors for images 10, 9 is None
+
+Images: 10, 10 
+Time: 78.10 ms
+ATTENTION! One of the descriptors for images 10, 10 is None
+
+Images: 10, 11 
+Time: 204.22 ms
+ATTENTION! One of the descriptors for images 10, 11 is None
+
+Images: 11, 1 
+Time: 233.86 ms
+Match: 11.96%
+Status: Bad
+
+
+Images: 11, 2 
+Time: 665.95 ms
+Match: 11.11%
+Status: Bad
+
+
+Images: 11, 3 
+Time: 189.70 ms
+Match: 23.46%
+Status: Bad
+
+
+Images: 11, 4 
+Time: 933.67 ms
+Match: 5.88%
+Status: Bad
+
+
+Images: 11, 5 
+Time: 772.15 ms
+Match: 13.07%
+Status: Bad
+
+
+Images: 11, 6 
+Time: 250.09 ms
+Match: 89.71%
+Status: Good
+
+
+Images: 11, 7 
+Time: 260.31 ms
+Match: 0.0%
+Status: Bad
+
+
+Images: 11, 8 
+Time: 219.86 ms
+Match: 14.01%
+Status: Bad
+
+
+Images: 11, 9 
+Time: 343.25 ms
+Match: 58.33%
+Status: Normal
+
+
+Images: 11, 10 
+Time: 207.92 ms
+ATTENTION! One of the descriptors for images 11, 10 is None
+
+Images: 11, 11 
+Time: 344.27 ms
+Match: 0.0%
+Status: Bad
+
+
